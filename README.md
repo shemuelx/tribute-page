@@ -1,2 +1,3 @@
-# shemuelx.github.io
-Tribute Page Project for musician and master marimba player José 'Gualajo' Torres García, for my first FreeCodeCamp Project.
+# Tribute Page
+---
+As a part of **[freeCodeCamp]([https://eff.org](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)** responsive web design certification project.
